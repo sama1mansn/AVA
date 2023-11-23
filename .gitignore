@@ -8,7 +8,7 @@ lerna-debug.log
 
 # Runtime data
 pids
-*.pid
+*.piderna-debug.log
 *.seed
 *.pid.lock
 
